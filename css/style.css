@@ -51,7 +51,7 @@ aside {
 footer {
     grid-area: f;
     background-color: mediumblue;
-    height: 15vh;
+    height: 10vh;
     text-align: right;
     color: #f9f9f9;
     padding-right: 25px;
@@ -60,7 +60,7 @@ footer {
 
 .cadastro {
     text-align: center;
-    padding-top: 15px;
+    padding-top: 7px;
 }
 
 input {
