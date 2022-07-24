@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Avengers Teck</title>
+    <title>Avengers Tech</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
     <header>
-        <h1>AVENGERS TECK</h1>
+        <h1>AVENGERS TECH</h1>
     </header>
     <main>
         <img src="img/america.png">
@@ -24,12 +24,12 @@
     <input type="number" placeholder="CNPJ" name="cnpj"><br><br>
     <input type="number" placeholder="Telefone para contato" name="telefone"><br><br>
     <input type="email" placeholder="Email para contato" name="email"><br><br>
-    <button type="submit">Finalizar Cadastro</button><br>
+    <input class="button" type="submit" onclick="processaCadastro()"></input><br>
 </div>
     </aside>
 
     <footer>
-        <p>Avengers Teck empresa de desenvolvimento de softwares LTDA</p>
+        <p>Avengers Tech empresa de desenvolvimento de softwares LTDA</p>
      </footer>
          
 </body>

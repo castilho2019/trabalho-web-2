@@ -72,7 +72,7 @@ input {
     
 }
 
-button {
+.button {
     height: 32px;
     width: 175px;
     background-color: yellow;
