@@ -17,14 +17,15 @@
     </main>
     <aside>
     <div class="cadastro">
-        <form action="index.php" method="post"></form>
+        <form action="index.php" method="post">
         <h3>Faça aqui o seu cadastro</h3>
     <input type="text" placeholder="Digite o seu nome" name="nome"><br><br>
     <input type="text" placeholder="Nome da Empresa" name="empresa"><br><br>
     <input type="number" placeholder="CNPJ" name="cnpj"><br><br>
     <input type="number" placeholder="Telefone para contato" name="telefone"><br><br>
     <input type="email" placeholder="Email para contato" name="email"><br><br>
-    <input class="button" type="submit" onclick="processaCadastro()"></input><br>
+    <input class="button" type="submit"></input><br>
+    </form>
 </div>
     </aside>
 
